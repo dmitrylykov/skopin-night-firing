@@ -69,3 +69,6 @@ private:
     int stokes_ = 0;
     std::vector<Ware> stack_;
     std::vector<bool> glazeReached_;
+};
+
+}  // namespace skopin
